@@ -2,7 +2,7 @@ class Script(object):
     START_TXT = """𝗛𝗲𝗹𝗹𝗼 {},
 
 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀  <a href=https://t.me/{}>{}</a>!
-ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/DhashamoolamDhamu'>𝕯𝖍𝖆𝖘𝖍𝖆𝖒𝖔𝖔𝖑𝖆𝖒𝕯𝖍𝖆𝖒𝖚</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
+ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/Its_Zahid_Official'>Zahid</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
 
 """
 
@@ -13,9 +13,9 @@ class Script(object):
     ABOUT_TXT = """
 ╭━━━━━━━━━━━━━━━━━━━━━➣ 
 ┣⪼  ᴍʏ ɴᴀᴍᴇ: {}
-┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/DhashamoolamDhamu'>ᴅʜᴀꜱʜᴀᴍᴏᴏʟᴀᴍ ᴅʜᴀᴍᴜ</a>
+┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Its_Zahid_Official'>Zahid</a>
 ┣⪼ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/ccadmin1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
+┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/Zomato1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
 ┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
 ┣⪼ ʙᴏᴛ ꜱᴇʀᴠᴇʀ: <a href='https://heroku.com'>Heroku</a>
 ┣⪼ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v2.0.1 [ Beta ]
@@ -23,10 +23,10 @@ class Script(object):
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a https://github.com/ccadmin1/Movie-Bot'>GitHub - Click here 👈</a>
+Source: <a https://github.com/Zomato1/Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/DhashamoolamDhamu'>DhashamoolamDhamu</a>
+- <a href='https://t.me/Its_Zahid_Official'>Zahid</a>
 
 """
 
@@ -225,7 +225,6 @@ This module only works for my admins
 <b>Commands and Usage:</b>
 • /logs - to get the rescent errors.
 • /stats - to get status of files in db.
-• /delete - to delete a specific file from db.
 • /users - to get list of my users and ids.
 • /chats - to get list of the my chats and ids.
 • /leave - to leave from a chat.
@@ -264,16 +263,6 @@ Some dank memes for fun or whatever!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    URL_SHORTNER_TXT = """Help: <b>URL Shortner</b>
-
-Some URLs is Shortner
-
-<b>Commands and Usage:</b>
-• /short <code>(link)</code> - I will send the shorted links.
-
-<b>Example:</b>
-<code>/short https://t.me/josprojects</code>
-
 <b>NOTE:</b>
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
@@ -290,18 +279,6 @@ A module to convert text to voice with language support.
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
-
-    MUSIC_TXT = """Help: <b>Music</b>
-
-Music download modules, for those who love music.
-
-<b>Commands and Usage:</b>
-• /song or /mp3 (songname) - download song from yt servers.
-• /video or /mp4 (songname) - download video from yt servers.
-
-<b>YouTube Thumbnail Download</b>
-• /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
