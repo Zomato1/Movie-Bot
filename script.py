@@ -1,8 +1,7 @@
 class Script(object):
     START_TXT = """𝗛𝗲𝗹𝗹𝗼 {},
 
-𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀  <a href=https://t.me/{}>{}</a>!
-ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/Its_Zahid_Official'>Zahid</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
+𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀  <a href=https://t.me/{}>{}</a>!𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓<a href='https://t.me/Its_Zahid_Official'>Zahid</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
 
 """
 
@@ -13,7 +12,7 @@ class Script(object):
     ABOUT_TXT = """
 ╭━━━━━━━━━━━━━━━━━━━━━➣ 
 ┣⪼  ᴍʏ ɴᴀᴍᴇ: {}
-┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Its_Zahid_Official'>Zahid</a>
+┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Its_Zahid_Official'>ZAHID</a>
 ┣⪼ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/Zomato1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
 ┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -26,7 +25,7 @@ IMDb is a Open source project.
 Source: <a https://github.com/Zomato1/Movie-Bot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/Its_Zahid_Official'>Zahid</a>
+- <a href='https://t.me/Its_Zahid_Official'>ZAHID</a>
 
 """
 
@@ -246,10 +245,6 @@ This module only works for my admins
 
     FORCESUB_TXT = """**
 **👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
-
-    MEMES_TXT = """Help: <b>Memes</b>
-
-Some dank memes for fun or whatever!
 
 <b>Commands and Usage:</b>
 • /throw or /dart - t𝗈 m𝖺𝗄𝖾 drat 
